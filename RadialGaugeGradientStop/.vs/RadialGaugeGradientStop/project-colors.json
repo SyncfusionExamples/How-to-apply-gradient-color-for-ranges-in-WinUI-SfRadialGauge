@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "54c4d39b-8ce9-4162-a7f7-5e5cf765aca3": {
+      "ProjectGuid": "54c4d39b-8ce9-4162-a7f7-5e5cf765aca3",
+      "DisplayName": "RadialGaugeGradientStop (Package)",
+      "ColorIndex": 0
+    },
+    "08407a6f-6899-4bdb-89e2-5600de16bd92": {
+      "ProjectGuid": "08407a6f-6899-4bdb-89e2-5600de16bd92",
+      "DisplayName": "RadialGaugeGradientStop",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
