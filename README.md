@@ -1,6 +1,6 @@
 # How to apply gradient color for ranges in WinUI SfRadialGauge
 
-This repository contains sample for how to apply gradient color for ranges in the [Syncfusion WinUI Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
+This repository contains sample to apply gradient color for ranges in the [Syncfusion WinUI Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
 
 ## Syncfusion controls
 
