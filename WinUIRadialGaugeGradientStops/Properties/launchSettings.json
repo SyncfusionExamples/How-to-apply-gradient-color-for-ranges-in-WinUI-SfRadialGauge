@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUIRadialGaugeGradientStops (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUIRadialGaugeGradientStops (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
